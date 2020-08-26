@@ -48,3 +48,9 @@ LINK DOWNLOAD CONTOH
 
 
 PENUTUP BLA BLA BLA 
+
+
+
+
+
+# save file ini dengan nama file page.md di folder device masing masing 
